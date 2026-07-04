@@ -1,0 +1,1 @@
+export default function Footer(){return (<footer style={{padding:30,textAlign:'center',background:'#111',color:'#fff'}}>© 2026 Nexora Media</footer>);}

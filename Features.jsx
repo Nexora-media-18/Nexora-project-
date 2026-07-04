@@ -1,0 +1,1 @@
+export default function Features(){return (<section style={{padding:40}}><h2>Why Choose Nexora Media</h2><ul><li>Premium Strategy</li><li>Fast Delivery</li><li>24/7 Support</li><li>Growth Focused</li></ul></section>);}

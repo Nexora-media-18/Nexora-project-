@@ -1,0 +1,1 @@
+export default function Pricing(){return (<section style={{padding:40}}><h2>Pricing</h2><div><h3>Starter</h3><p>₹999</p></div><div><h3>Professional</h3><p>₹4999</p></div><div><h3>Enterprise</h3><p>Custom Quote</p></div></section>);}
