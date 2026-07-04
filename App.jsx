@@ -1,0 +1,1 @@
+export default function App(){return (<div style={{padding:40,fontFamily:'Arial'}}><h1>Nexora Media V2</h1><p>Starter project.</p></div>)}
