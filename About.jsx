@@ -1,0 +1,1 @@
+export default function About(){return(<section style={{padding:"60px 20px"}}><h2>About Nexora Media</h2><p>Nexora Media is a modern digital marketing agency helping businesses grow through branding, websites, SEO and social media.</p><h3>Mission</h3><p>Deliver high-quality digital solutions.</p><h3>Vision</h3><p>Become a leading digital marketing agency.</p></section>)}

@@ -1,0 +1,1 @@
+export default function FAQ(){return(<section style={{padding:"60px 20px"}}><h2>FAQ</h2><h4>Delivery Time?</h4><p>1-7 business days.</p><h4>Support?</h4><p>Yes, we provide support.</p></section>)}

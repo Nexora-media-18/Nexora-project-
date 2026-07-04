@@ -1,0 +1,1 @@
+export default function Blog(){return(<section style={{padding:"60px 20px"}}><h2>Latest Articles</h2><p>Top Digital Marketing Trends</p><p>Why Every Business Needs SEO</p></section>)}

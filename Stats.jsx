@@ -1,0 +1,1 @@
+export default function Stats(){return(<section style={{padding:"60px 20px"}}><h2>Achievements</h2><div><h1>100+</h1><p>Clients</p><h1>500+</h1><p>Projects</p><h1>98%</h1><p>Satisfaction</p></div></section>)}

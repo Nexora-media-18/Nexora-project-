@@ -1,0 +1,1 @@
+export default function Team(){return(<section style={{padding:"60px 20px"}}><h2>Our Team</h2><div><h3>Founder</h3><p>Yallappa</p><h3>Marketing Team</h3><p>Nexora Media</p></div></section>)}
