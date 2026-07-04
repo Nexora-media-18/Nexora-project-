@@ -1,0 +1,1 @@
+export default function PortfolioEditor(){return(<div style={{padding:40}}><h1>Portfolio Editor</h1><button>Add Project</button></div>)}

@@ -1,0 +1,1 @@
+export default function MediaLibrary(){return(<div style={{padding:40}}><h1>Media Library</h1><p>Upload images and videos.</p></div>)}

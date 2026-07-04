@@ -1,0 +1,1 @@
+export default function Analytics(){return(<div style={{padding:40}}><h1>Analytics</h1><p>Traffic and request statistics.</p></div>)}

@@ -1,0 +1,1 @@
+export default function UsersManager(){return(<div style={{padding:40}}><h1>User Management</h1><p>View and manage users.</p></div>)}

@@ -1,0 +1,1 @@
+export default function PricingEditor(){return(<div style={{padding:40}}><h1>Pricing Editor</h1><button>Update Pricing</button></div>)}

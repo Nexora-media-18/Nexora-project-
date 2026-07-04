@@ -1,0 +1,1 @@
+export default function WebsiteSettings(){return(<div style={{padding:40}}><h1>Website Settings</h1><button>Save Changes</button></div>)}

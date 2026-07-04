@@ -1,0 +1,1 @@
+export default function TestimonialsEditor(){return(<div style={{padding:40}}><h1>Testimonials Editor</h1><button>Add Testimonial</button></div>)}
