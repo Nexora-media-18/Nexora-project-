@@ -1,0 +1,1 @@
+export default function Orders(){return(<div style={{padding:40}}><h1>My Orders</h1><table border='1' cellPadding='8'><thead><tr><th>ID</th><th>Service</th><th>Status</th></tr></thead><tbody><tr><td>#1001</td><td>SEO</td><td>Processing</td></tr></tbody></table></div>)}

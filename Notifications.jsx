@@ -1,0 +1,1 @@
+export default function Notifications(){return(<div style={{padding:40}}><h1>Notifications</h1><p>No new notifications.</p></div>)}

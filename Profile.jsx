@@ -1,0 +1,1 @@
+export default function Profile(){return(<div style={{padding:40}}><h1>My Profile</h1><p>Name: Demo User</p><p>Email: demo@example.com</p></div>)}

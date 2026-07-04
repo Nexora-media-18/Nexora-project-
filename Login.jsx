@@ -1,16 +1,1 @@
-export default function Login() {
-  return (
-    <div style={{ padding: 50 }}>
-      <h1>Admin Login</h1>
-
-      <input placeholder="Email" /><br /><br />
-
-      <input
-        type="password"
-        placeholder="Password"
-      /><br /><br />
-
-      <button>Login</button>
-    </div>
-  );
-}
+export default function Login(){return(<div style={{padding:40}}><h1>Customer Login</h1><input placeholder='Email'/><br/><br/><input type='password' placeholder='Password'/><br/><br/><button>Login</button></div>)}

@@ -1,0 +1,1 @@
+export default function Settings(){return(<div style={{padding:40}}><h1>Settings</h1><button>Update Profile</button><br/><br/><button>Change Password</button></div>)}
